@@ -1,0 +1,3 @@
+D:/Codings2/Clion_learn/cmake-build-debug/CMakeFiles/Clion_learn.dir
+D:/Codings2/Clion_learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codings2/Clion_learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
